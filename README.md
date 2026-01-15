@@ -2,7 +2,7 @@
 
 This project analyzes hourly traffic data collected between 2012 and 2018 along the westbound I-94 corridor near Minneapolis-St. Paul. By uncovering the factors that contribute to high traffic volume, this project aims to support better planning, safety, and efficiency on this critical highway.
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Objective](#objective)
@@ -65,7 +65,7 @@ This project can be used to:
 
 ## Key Insights
 
-### 🕑 Time-Based Indicators
+### Time-Based Indicators
 
 - **Daytime traffic** is significantly higher than nighttime.
 - **Peak hours**: Morning (6 AM) and evening (5 PM), especially on weekdays.
@@ -75,12 +75,12 @@ This project can be used to:
   
   <img src='images/temporal_traffic_analysis.png' alt='Temporal Traffic Analysis' width='65%'>
 
-### 🌧️ Weather Indicators
+### Weather Indicators
 
 - **Overall weak correlation** between weather and traffic volume.
 - Certain adverse weather types (e.g., light snow, thunderstorms) surprisingly coincide with **high traffic averages**, indicating that traffic continues despite poor conditions.
 
-### 🗓️ Holiday Patterns
+### Holiday Patterns
 
 - **Lower average traffic** on most U.S. holidays.
 - **New Year’s Day** is an exception, with the **highest average traffic volume**.
